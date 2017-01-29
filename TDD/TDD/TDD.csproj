@@ -67,8 +67,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Dollar.cs" />
-    <Compile Include="Models\Franc.cs" />
+    <Compile Include="Models\Bank.cs" />
+    <Compile Include="Models\Expression.cs" />
+    <Compile Include="Models\Money.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
